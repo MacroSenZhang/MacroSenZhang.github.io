@@ -1,6 +1,6 @@
 ## Working papers
 * **Slope Puzzle** (with Yangyang Ji, CEMA, CUFE)
-	- Newest version: <a href="Presentations/workingpaper1.pdf">pdf</a>
+	- Newest version: <a href="workingpaper1.pdf">pdf</a>
 
 
 ## Work in progress

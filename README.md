@@ -6,7 +6,7 @@
 
 
 ## Work in progress
-* **A Tractable Open Economy HANK Aodel** 
+* **Heterogeneous Returns and Optimal Taxation** 
 
 ## CV
 You can find my CV <a href="SZhang_CV.pdf">here</a>.
